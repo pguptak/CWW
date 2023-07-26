@@ -5,6 +5,6 @@
 on platforms like MATLAB, etc. As, Python has recently emerged as a versatile programming language with its application in various domains, hence, we have also developed the Python based implementations for numerous CWW methodologies. Through this work, we present their details for the interested users, draw a comparisons and improvements as well as provide links to access the Python-based software of the popular CWW methodologies.
 
 <h4>
-  [1] Zadeh, L. A. (1996). Fuzzy logic= computing with words. IEEE transactions on fuzzy systems, 4(2), 103-111.
+  [1] Zadeh, L. A. (1996). Fuzzy logic= computing with words. IEEE transactions on fuzzy systems, 4(2), 103-111.<br/>
   [2] Gupta, P. K., & Andreu-Perez, J. (2022). A gentle introduction and survey on computing with words (cww) methodologies. Neurocomputing, 500, 921-937.
 </h4>
